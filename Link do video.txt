@@ -1,0 +1,11 @@
+Relatório de bugs
+-depois de morrer comandos ficam freezados, precisa apertar esc pra voltar ao normal
+-cavalo empurra o boss
+-animações dos boss
+-tive que tirar o object pooling pq tava bugando quando dava reset no jogo
+
+Link
+https://www.youtube.com/watch?v=EAnJqLq9JiM
+
+LUCAS FARIA DA SILVA  			RA: 21210141
+Renato Gimbernau Gimenez		RA: 21098187
